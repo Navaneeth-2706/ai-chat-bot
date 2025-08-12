@@ -20,3 +20,6 @@ This project simulates a responsive and interactive chatbot, ideal for customer 
 -style.css # Styling for the chatbot interface
 -script.js # Chatbot logic and API integration
 - README.md # Project documentation
+
+
+  
