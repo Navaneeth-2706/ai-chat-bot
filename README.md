@@ -17,9 +17,10 @@ This project simulates a responsive and interactive chatbot, ideal for customer 
 
 ## Project Structure
 - index.html # Main HTML page with chatbot UI
--style.css # Styling for the chatbot interface
--script.js # Chatbot logic and API integration
+- style.css # Styling for the chatbot interface
+- script.js # Chatbot logic and API integration
 - README.md # Project documentation
 
-
+## Screenshot
+- [Chatbot UI] (./chatbot_ui.png)
   
