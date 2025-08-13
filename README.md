@@ -22,5 +22,5 @@ This project simulates a responsive and interactive chatbot, ideal for customer 
 - README.md # Project documentation
 
 ## Screenshot
-- [Chatbot UI] (./chatbot_ui.png)
+- ![Chatbot UI] (./chatbot_ui.png)
   
